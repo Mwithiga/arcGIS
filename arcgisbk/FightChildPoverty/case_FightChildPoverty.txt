@@ -1,0 +1,12 @@
+More children live in poverty in Detroit, Michigan, than in any other city in the United States. You work for a charity that supports community programs and poverty relief efforts. This year, the charity wants to direct its funding toward resources to help at-risk kids in Detroit.
+
+Your objective is to ensure the programs are offered where they're most needed. To do so, you'll create a map by adding and enriching a layer of census tract areas with demographic data from Living Atlas of the World. You'll also apply smart mapping and style the layer to show median household income by census tract. Then, you'll change the layer style to show median household income and child population, to identify which areas have the most children living in poverty. You'll also configure the pop-ups to make the demographic information easier to read. Lastly, you'll report your findings to top donors and partner organizations by configuring a web app that tells a clear story based on your data.
+
+Build skills in these areas:
+
+Adding layers to a map
+Enriching layers with demographic data
+Styling layers with smart mapping
+Configuring pop-ups
+Editing item details
+Configuring a web app
